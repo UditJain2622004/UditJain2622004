@@ -41,5 +41,5 @@ I'm currently learning DSA.
 ## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/uditjain26/)
-- [Email](uditjain2622004@gmail.com)
+- [Email](mailto:uditjain2622004@gmail.com)
 
