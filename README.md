@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **UditJain2622004/UditJain2622004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +29,8 @@ I'm a passionate student with a keen interest in software and web development. C
 
 Here are some projects that I've worked on:
 
-- [Project 1]([link-to-project1](https://pgseeker.netlify.app/)) - A Paying Guests (PGs) listing platform.
-- [Project 2][(link-to-project2](https://practiceden.netlify.app/)) - A Leetcode clone to practice your DSA skills.
+- [(PGSeeker](https://pgseeker.netlify.app/)  - A Paying Guests (PGs) listing platform.
+- [(PracticeDen](https://practiceden.netlify.app/) - A Leetcode clone to practice your DSA skills.
 
 Feel free to explore my repositories to find more projects!
 
@@ -41,6 +40,6 @@ I'm currently learning DSA.
 
 ## 📫 Get in touch
 
-- LinkedIn: [[Your LinkedIn Profile](link-to-linkedin)](https://www.linkedin.com/in/uditjain26/)
+- [(LinkedIn]([https://pgseeker.netlify.app/](https://www.linkedin.com/in/uditjain26/))
 - Email: uditjain2622004@gmail.com
 
