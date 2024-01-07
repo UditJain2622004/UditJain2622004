@@ -29,8 +29,8 @@ I'm a passionate student with a keen interest in software and web development. C
 
 Here are some projects that I've worked on:
 
-- [(PGSeeker](https://pgseeker.netlify.app/)  - A Paying Guests (PGs) listing platform.
-- [(PracticeDen](https://practiceden.netlify.app/) - A Leetcode clone to practice your DSA skills.
+- [PGSeeker](https://pgseeker.netlify.app/)  - A Paying Guests (PGs) listing platform.
+- [PracticeDen](https://practiceden.netlify.app/) - A Leetcode clone to practice your DSA skills.
 
 Feel free to explore my repositories to find more projects!
 
@@ -40,6 +40,6 @@ I'm currently learning DSA.
 
 ## 📫 Get in touch
 
-- [(LinkedIn]([https://pgseeker.netlify.app/](https://www.linkedin.com/in/uditjain26/))
+- [LinkedIn](https://www.linkedin.com/in/uditjain26/)
 - Email: uditjain2622004@gmail.com
 
